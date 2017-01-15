@@ -1,0 +1,19 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6EB4-F85B
+
+ Directory of C:\Users\ARCHANA\game-of-life
+
+01/15/2017  03:54 PM    <DIR>          .
+01/15/2017  03:54 PM    <DIR>          ..
+01/09/2017  05:59 PM               154 .gitignore
+01/09/2017  05:59 PM    <DIR>          gameoflife-acceptance-tests
+01/09/2017  05:59 PM    <DIR>          gameoflife-build
+01/09/2017  05:59 PM    <DIR>          gameoflife-core
+01/09/2017  05:59 PM    <DIR>          gameoflife-deploy
+01/09/2017  05:59 PM    <DIR>          gameoflife-web
+01/09/2017  05:59 PM                52 infinitest.filters
+01/09/2017  05:59 PM            22,800 pom.xml
+01/09/2017  05:59 PM             3,090 README.markdown
+01/15/2017  03:54 PM                 0 text.txt
+               5 File(s)         26,096 bytes
+               7 Dir(s)  872,663,580,672 bytes free
