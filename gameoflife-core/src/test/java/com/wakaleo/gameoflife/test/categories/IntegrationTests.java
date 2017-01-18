@@ -4,6 +4,6 @@ public interface IntegrationTests extends SlowTests {
 
 Public void tryThis()
 {
-Systemoutprintln("hello");
+Systemoutprintln("hello all");
 }
 }
